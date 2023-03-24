@@ -1,0 +1,14 @@
+# botenv
+botenv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local env files
+.env
